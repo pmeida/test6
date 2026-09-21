@@ -9,7 +9,7 @@
  * @param {object} context.query - The query string deserialized as an object, if any.
  * @param {object} context.log - Logging object with methods for 'info', 'warn', 'error', etc.s
  * @param {object} context.headers - The HTTP request headers.
- * @param {string} context.method - The HTTP request method.
+ * @param {string} context.method - The HTTP request method.s
  * @param {string} context.httpVersion - The HTTP protocol version.
  * @param {object} body - The request body if any.
  * @returns {object} HTTP response object.
